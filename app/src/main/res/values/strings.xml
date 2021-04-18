@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BottomSheetDialog</string>
+    <string name="actionShare">Share with Friends</string>
+    <string name="actionFavorites">Add to Favorites</string>
+    <string name="actionBookmark">Bookmark</string>
+    <string name="actionInfo">More information</string>
+    <string name="open_bottom_sheet">Open Bottom Sheet</string>
+    <string name="selected_items">Selected Items !!</string>
+</resources>
